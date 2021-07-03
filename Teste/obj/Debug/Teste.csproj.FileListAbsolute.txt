@@ -1,0 +1,56 @@
+C:\Users\ew_m\Downloads\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\ew_m\Downloads\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\ew_m\Downloads\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\ew_m\Downloads\Teste\Teste\bin\Debug\System.ValueTuple.dll
+C:\Users\ew_m\Downloads\Teste\Teste\bin\Debug\System.ValueTuple.xml
+C:\Users\ew_m\Downloads\Teste\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\ew_m\Downloads\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\ew_m\Downloads\Teste\Teste\obj\Debug\Teste.csproj.CopyComplete
+C:\Users\ew_m\Downloads\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\ew_m\Downloads\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\Teste.exe.config
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\Teste.exe
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\Teste.pdb
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\System.ValueTuple.dll
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\System.ValueTuple.xml
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\obj\Debug\Teste.csproj.CopyComplete
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\obj\Debug\Teste.exe
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\obj\Debug\Teste.pdb
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\RestSharp.dll
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\etern\Desktop\TesteIcontTalent\Teste\bin\Debug\RestSharp.xml
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\Teste.exe.config
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\Teste.exe
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\Teste.pdb
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\RestSharp.dll
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\System.ValueTuple.dll
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\RestSharp.xml
+C:\Users\etern\Desktop\RESTSHARP\Teste\bin\Debug\System.ValueTuple.xml
+C:\Users\etern\Desktop\RESTSHARP\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\etern\Desktop\RESTSHARP\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\etern\Desktop\RESTSHARP\Teste\obj\Debug\Teste.csproj.CopyComplete
+C:\Users\etern\Desktop\RESTSHARP\Teste\obj\Debug\Teste.exe
+C:\Users\etern\Desktop\RESTSHARP\Teste\obj\Debug\Teste.pdb
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\Teste.exe.config
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\Teste.exe
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\Teste.pdb
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\RestSharp.dll
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\System.ValueTuple.dll
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\RestSharp.xml
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\bin\Debug\System.ValueTuple.xml
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\obj\Debug\Teste.csproj.CopyComplete
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\obj\Debug\Teste.exe
+C:\Users\etern\Desktop\REST-API\RESTSHARP - Copia\Teste\obj\Debug\Teste.pdb
